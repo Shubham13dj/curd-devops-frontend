@@ -1,0 +1,17 @@
+{
+    "sandeep": {
+        "email": "samdeep@gmail.com",
+        "password": "sandeep",
+        "username": "sandeep"
+    },
+    "Shubham": {
+        "email": "samdeep@gmail.com",
+        "password": "sandeep",
+        "username": "Shubham"
+    },
+    "string": {
+        "username": "string",
+        "email": "strings",
+        "password": "string"
+    }
+}
